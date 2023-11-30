@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FilipBd
-- 👀 I’m interested in mechatronics, software development and [embedded|hardware|cyber] security.
+- 👀 I’m interested in mechatronics, software development, AI and [embedded|hardware|cyber] security.
 
 <!---
 FilipBd/FilipBd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
